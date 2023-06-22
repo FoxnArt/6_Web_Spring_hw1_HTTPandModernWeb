@@ -1,3 +1,5 @@
+//Параметры из Query String парсятся в поле queryParams класса Request,
+// в том же классе реализованы методы getQueryParam(String name) и getQueryParams()
 package ru.netology;
 
 import java.io.BufferedOutputStream;
